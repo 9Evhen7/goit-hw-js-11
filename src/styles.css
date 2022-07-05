@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 .search-form{
@@ -28,6 +29,14 @@ height: 180px;
     display: block;
     text-decoration: none;
     height: 100%;
+}
+
+
+.load-more{
+    padding: 10px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 20px;
 }
 
 .hide {
